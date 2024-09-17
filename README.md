@@ -1,1 +1,1 @@
-# leetcode-grind
+# LeetCode Journal
