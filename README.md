@@ -1,5 +1,3 @@
-# LeetCode Journal
-
 # LeetCode 面试最常考 200 题（按分类排序）
 
 ## 01. 数组
