@@ -26,7 +26,7 @@
 
 ### 📚 Fundamentals & Essential Python Concepts
 
-- **Day 1**
+- **Day 1** ([Log 1](Log_1.ipynb))
   - [1. Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
   - [2. Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
   - [3. An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html)
